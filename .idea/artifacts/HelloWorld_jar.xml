@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelloWorld:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloWorld_jar</output-path>
+    <root id="archive" name="HelloWorld.jar">
+      <element id="module-output" name="HelloWorld" />
+      <element id="library" level="project" name="JDA-3.1.1_216" />
+      <element id="dir-copy" path="$PROJECT_DIR$/pic" />
+    </root>
+  </artifact>
+</component>
